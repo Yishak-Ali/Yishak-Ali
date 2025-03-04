@@ -1,4 +1,4 @@
-# 👋🏾 Hello, my name is Yishak.
+# 👋🏾 Hello, I'm Yishak.
 - 💼 I'm a former IB & PE Analyst pivoting to a career in Data.
 - 🌱 Currently further expanding my technical skillset to excel in the field.
 - 👀 I’m looking for opportunities to get more experience working with raw, real-world data in a professional setting
