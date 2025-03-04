@@ -1,7 +1,9 @@
 # 👋🏾 Hello, My name is Yishak.
-- 💼 I'm a former IB Analyst pivoting to a career in Data.
-- 🌱 Currently expanding my technical skillset to excel in the field.
-- 👀 I’m looking for opportunities to get more experience working with real-world data, particulary at the intersection of data and healthcare.
+- 💼 I'm a former IB & PE Analyst pivoting to a career in Data.
+- 🌱 Currently further expanding my technical skillset to excel in the field.
+- 👀 I’m looking for opportunities to get more experience working with raw, real-world data in a professional setting
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/yishak-ali/)
+- 🎓 BA in Neuroscience & Economics secondary, Harvard College
 
 <!---
 Yishak-Ali/Yishak-Ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
