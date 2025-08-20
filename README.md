@@ -1,7 +1,7 @@
 # 👋🏾 Hello, my name is Yishak.
 - 💼 I'm a former Financial Analyst pivoting to a career in Data.
 - 🌱 Currently expanding my technical skillset to excel in the field.
-- 👀 I’m looking for opportunities to get more experience working with raw, real-world data in a professional setting
+- 👀 I’m looking for opportunities to get more experience working with raw, real-world data in a professional setting.
 - 📫 Connect on [LinkedIn](https://www.linkedin.com/in/yishak-ali/)
 - 🎓 Education: BA in Neuroscience & Economics secondary, Harvard College
 
